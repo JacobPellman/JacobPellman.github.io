@@ -29,7 +29,7 @@ coverage
 .grunt
 
 # Bower dependency directory (https://bower.io/)
-bower_components
+
 
 # node-waf configuration
 .lock-wscript
@@ -114,3 +114,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+.
